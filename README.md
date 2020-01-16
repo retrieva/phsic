@@ -30,7 +30,7 @@ In Proceedings of [the 2018 Conference on Empirical Methods in Natural Language 
 ## Installation
 
 ```
-$ pip install phsic-cli
+$ pip install ./
 ```
 
 This will install `phsic` command to your environment:
